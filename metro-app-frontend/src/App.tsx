@@ -118,6 +118,9 @@ function App() {
           ) : parsedPath && parsedPath.pathLines.length > 0 ? (
             <div className="metro-path-output">
               <div className="distance-label">{parsedPath.distance}</div>
+              <div style={{fontSize: '1.1em', color: '#0078d7', fontWeight: 700, marginBottom: '0.5em'}}>
+                Distance: {parsedPath.distance.replace('Shortest Distance:', '').trim()}
+              </div>
               <div className="stations-label">Number of stations in between: {numStationsInBetween}</div>
               <div className="metro-path-steps">
                 {parsedPath.pathLines.map((step, idx) => (
