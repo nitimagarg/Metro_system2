@@ -1,0 +1,273 @@
+Source,Destination,Distance,LineColor
+Noida Sector 51 [Conn: Blue],Noida Sector 50,1.3,Aqua
+Noida Sector 50,Noida Sector 76,1.0,Aqua
+Noida Sector 76,Noida Sector 101,1.1,Aqua
+Noida Sector 101,Noida Sector 81,0.9,Aqua
+Noida Sector 81,NSEZ Noida,2.0,Aqua
+NSEZ Noida,Noida Sector 83,1.1,Aqua
+Noida Sector 83,Noida Sector 137,1.5,Aqua
+Noida Sector 137,Noida Sector 142,1.6,Aqua
+Noida Sector 142,Noida Sector 143,1.0,Aqua
+Noida Sector 143,Noida Sector 144,1.4,Aqua
+Noida Sector 144,Noida Sector 145,1.2,Aqua
+Noida Sector 145,Noida Sector 146,1.7,Aqua
+Noida Sector 146,Noida Sector 147,1.5,Aqua
+Noida Sector 147,Noida Sector 148,1.6,Aqua
+Noida Sector 148,Knowledge Park II,2.5,Aqua
+Knowledge Park II,Pari Chowk Greater Noida,1.1,Aqua
+Pari Chowk Greater Noida,Alpha 1 Greater Noida,0.9,Aqua
+Alpha 1 Greater Noida,Delta 1 Greater Noida,1.5,Aqua
+Delta 1 Greater Noida,GNIDA Office,1.3,Aqua
+GNIDA Office,Depot Greater Noida,0.9,Aqua
+Dwarka Sector 21(First station) [Conn: Orange],Dwarka Sector 8,1.7,Blue
+Dwarka Sector 8,Dwarka Sector 9,1.0,Blue
+Dwarka Sector 9,Dwarka Sector 10,1.1,Blue
+Dwarka Sector 10,Dwarka Sector 11,1.0,Blue
+Dwarka Sector 11,Dwarka Sector 12,1.0,Blue
+Dwarka Sector 12,Dwarka Sector 13,0.9,Blue
+Dwarka Sector 13,Dwarka Sector 14,0.9,Blue
+Dwarka Sector 14,Dwarka [Conn: Gray],1.5,Blue
+Dwarka [Conn: Gray],Dwarka Mor,1.1,Blue
+Dwarka Mor,Nawada,1.2,Blue
+Nawada,Uttam Nagar West,1.0,Blue
+Uttam Nagar West,Uttam Nagar East,1.0,Blue
+Uttam Nagar East,Janak Puri West [Conn: Magenta],1.3,Blue
+Janak Puri West [Conn: Magenta],Janak Puri East,1.0,Blue
+Janak Puri East,Tilak Nagar,1.0,Blue
+Tilak Nagar,Subhash Nagar,0.9,Blue
+Subhash Nagar,Tagore Garden,0.9,Blue
+Tagore Garden,Rajouri Garden [Conn: Pink],1.1,Blue
+Rajouri Garden [Conn: Pink],Ramesh Nagar,1.0,Blue
+Ramesh Nagar,Moti Nagar,1.2,Blue
+Moti Nagar,Kirti Nagar [Conn: Green],1.0,Blue
+Kirti Nagar [Conn: Green],Shadipur,0.7,Blue
+Shadipur,Patel Nagar,1.3,Blue
+Patel Nagar,Rajendra Place,0.9,Blue
+Rajendra Place,Karol Bagh,1.0,Blue
+Karol Bagh,Jhandewalan,1.2,Blue
+Jhandewalan,R K Ashram Marg,1.0,Blue
+R K Ashram Marg,Rajiv Chowk [Conn: Yellow],1.2,Blue
+Rajiv Chowk [Conn: Yellow],Barakhamba,0.7,Blue
+Barakhamba,Mandi House [Conn: Violet],1.0,Blue
+Mandi House [Conn: Violet],Supreme Court (Pragati Maidan),0.8,Blue
+Supreme Court (Pragati Maidan),Indraprastha,0.8,Blue
+Indraprastha,Yamuna Bank,1.8,Blue
+Yamuna Bank,Akshardham,1.3,Blue
+Akshardham,Mayur Vihar Phase-1 [Conn: Pink],1.8,Blue
+Mayur Vihar Phase-1 [Conn: Pink],Mayur Vihar Extention,1.2,Blue
+Mayur Vihar Extention,New Ashok Nagar,0.9,Blue
+New Ashok Nagar,Noida Sector 15,1.0,Blue
+Noida Sector 15,Noida Sector 16,1.1,Blue
+Noida Sector 16,Noida Sector 18,1.1,Blue
+Noida Sector 18,Botanical Garden [Conn: Magenta],1.1,Blue
+Botanical Garden [Conn: Magenta],Golf Course,1.2,Blue
+Golf Course,Noida City Center,1.3,Blue
+Noida City Center,Noida Sector 34,0.9,Blue
+Noida Sector 34,Noida Sector 52 [Conn: Aqua],1.2,Blue
+Noida Sector 52 [Conn: Aqua],Noida Sector 61,1.2,Blue
+Noida Sector 61,Noida Sector 59,1.0,Blue
+Noida Sector 59,Noida Sector 62,1.2,Blue
+Yamuna Bank,Laxmi Nagar,1.3,Blue line branch
+Laxmi Nagar,Nirman Vihar,1.1,Blue line branch
+Nirman Vihar,Preet Vihar,1.0,Blue line branch
+Preet Vihar,Karkar Duma [Conn: Pink],1.2,Blue line branch
+Karkar Duma [Conn: Pink],Anand Vihar [Conn: Pink],1.1,Blue line branch
+Anand Vihar [Conn: Pink],Kaushambi,0.8,Blue line branch
+Kaushambi,Vaishali,1.6,Blue line branch
+Dwarka [Conn: Blue],Nangli,1.5,Grey
+Nangli,Najafgarh,2.4,Grey
+Inderlok Conn:Red,Ashok Park Main,1.4,Green
+Ashok Park Main,Punjabi Bagh,0.9,Green
+Punjabi Bagh,Shivaji Park,1.6,Green
+Shivaji Park,Madipur,1.1,Green
+Madipur,Paschim Vihar (East),0.7,Green
+Paschim Vihar (East),Paschim Vihar (West),1.0,Green
+Paschim Vihar (West),Peera Garhi,0.9,Green
+Peera Garhi,Udyog Nagar,1.2,Green
+Udyog Nagar,Maharaja Surajmal Stadium,0.7,Green
+Maharaja Surajmal Stadium,Nangloi,0.8,Green
+Nangloi,Nangloi Railway Station,0.9,Green
+Nangloi Railway Station,Rajdhani Park,1.2,Green
+Rajdhani Park,Mundka,1.3,Green
+Mundka,Mundka Industrial Area (MIA),1.3,Green
+Mundka Industrial Area (MIA),Ghevra Metro station,2.1,Green
+Ghevra Metro station,Tikri Kalan,1.8,Green
+Tikri Kalan,Tikri Border,1.3,Green
+Tikri Border,Pandit Shree Ram Sharma,1.3,Green
+Pandit Shree Ram Sharma,Bahdurgarh City,1.5,Green
+Bahdurgarh City,Brigadier Hoshiar Singh,1.8,Green
+Ashok Park Main,Satguru Ram Singh Marg,1.1,Green line branch
+Satguru Ram Singh Marg,Kirti Nagar [Conn: Blue],1.0,Green line branch
+Janak Puri West [Conn: Blue],Dabri Mor - Janakpuri South,2.0,Magenta
+Dabri Mor - Janakpuri South,Dashrath Puri,1.1,Magenta
+Dashrath Puri,Palam,1.5,Magenta
+Palam,Sadar Bazaar Cantonment,2.6,Magenta
+Sadar Bazaar Cantonment,Terminal 1 IGI Airport,1.7,Magenta
+Terminal 1 IGI Airport,Shankar Vihar,1.8,Magenta
+Shankar Vihar,Vasant Vihar,2.1,Magenta
+Vasant Vihar,Munirka,1.2,Magenta
+Munirka,RK Puram,1.4,Magenta
+RK Puram,IIT Delhi,0.9,Magenta
+IIT Delhi,Hauz Khas [Conn: Yellow],1.2,Magenta
+Hauz Khas [Conn: Yellow],Panchsheel Park,1.5,Magenta
+Panchsheel Park,Chirag Delhi,0.9,Magenta
+Chirag Delhi,Greater Kailash,0.9,Magenta
+Greater Kailash,Nehru Enclave,1.3,Magenta
+Nehru Enclave,Kalkaji Mandir [Conn: Violet],0.9,Magenta
+Kalkaji Mandir [Conn: Violet],Okhla NSIC,0.8,Magenta
+Okhla NSIC,Sukhdev Vihar,1.1,Magenta
+Sukhdev Vihar,JAMIA MILLIA ISLAMIA,1.2,Magenta
+JAMIA MILLIA ISLAMIA,Okhla Vihar,0.5,Magenta
+Okhla Vihar,Jasola Vihar Shaheen Bagh,1.8,Magenta
+Jasola Vihar Shaheen Bagh,Kalindi Kunj,1.4,Magenta
+Kalindi Kunj,Okhla Bird Sanctuary,1.6,Magenta
+Okhla Bird Sanctuary,Botanical Garden [Conn: Blue],1.7,Magenta
+New Delhi-Airport Express [Conn: Yellow],Shivaji Stadium,1.9,Orange
+Shivaji Stadium,Dhaula Kuan [Conn: Pink],6.4,Orange
+Dhaula Kuan [Conn: Pink],Delhi Aerocity,6.2,Orange
+Delhi Aerocity,IGI Airport,3.4,Orange
+IGI Airport,Dwarka Sector 21 [Conn: Blue],2.9,Orange
+Majlis Park,Azadpur [Conn: Yellow],2.1,Pink
+Azadpur [Conn: Yellow],Shalimar Bagh,1.6,Pink
+Shalimar Bagh,Netaji Subash Place [Conn: Red],1.4,Pink
+Netaji Subash Place [Conn: Red],Shakurpur,1.2,Pink
+Shakurpur,Punjabi Bagh West,1.4,Pink
+Punjabi Bagh West,ESI BASAI DARAPUR,2.5,Pink
+ESI BASAI DARAPUR,Rajouri Garden [Conn: Blue],1.1,Pink
+Rajouri Garden [Conn: Blue],Maya Puri,1.5,Pink
+Maya Puri,Naraina Vihar,1.5,Pink
+Naraina Vihar,Delhi Cantt,1.8,Pink
+Delhi Cantt,Durgabai Deshmukh South Campus [Conn: Orange],3.6,Pink
+Durgabai Deshmukh South Campus [Conn: Orange],Sir Vishweshwaraiah Moti Bagh,1.3,Pink
+Sir Vishweshwaraiah Moti Bagh,Bhikaji Cama Place,1.6,Pink
+Bhikaji Cama Place,Sarojini Nagar,1.2,Pink
+Sarojini Nagar,Dilli Haat INA [Conn: Yellow],1.1,Pink
+Dilli Haat INA [Conn: Yellow],South Extension,1.2,Pink
+South Extension,Lajpat Nagar [Conn: Violet],1.6,Pink
+Lajpat Nagar [Conn: Violet],Vinobapuri,1.4,Pink
+Vinobapuri,Ashram,1.2,Pink
+Ashram,Sarai Kale Khan Hazrat Nizamuddin,1.9,Pink
+Sarai Kale Khan Hazrat Nizamuddin,Mayur Vihar Phase-1 [Conn: Blue],3.6,Pink
+Mayur Vihar Phase-1 [Conn: Blue],Mayur Vihar Pocket I,0.8,Pink
+Mayur Vihar Pocket I,Trilokpuri Sanjay Lake,1.3,Pink
+Trilokpuri Sanjay Lake,Vinod Nagar East,0.8,Pink
+Vinod Nagar East,Mandawali - West Vinod Nagar,0.6,Pink
+Mandawali - West Vinod Nagar,IP Extension,1.0,Pink
+IP Extension,Anand Vihar [Conn: Blue],1.6,Pink
+Anand Vihar [Conn: Blue],Karkar Duma [Conn: Blue],1.0,Pink
+Karkar Duma [Conn: Blue],Karkarduma Court,1.1,Pink
+Karkarduma Court,Krishna Nagar,0.7,Pink
+Krishna Nagar,East Azad Nagar,1.0,Pink
+East Azad Nagar,Welcome [Conn: Red],1.1,Pink
+Welcome [Conn: Red],Jaffrabad,1.2,Pink
+Jaffrabad,Maujpur,1.1,Pink
+Maujpur,Gokulpuri,1.3,Pink
+Gokulpuri,Johri Enclave,1.3,Pink
+Johri Enclave,Shiv Vihar,0.9,Pink
+Sector 55-66,Sector 54 Chowk,1.1,Rapid
+Sector 54 Chowk,Sector 53-54,1.5,Rapid
+Sector 53-54,Sector 42-43,1.3,Rapid
+Sector 42-43,DLF Phase 1,1.6,Rapid
+DLF Phase 1,Sikandarpur [Conn: Yellow],1.1,Rapid
+Sikandarpur [Conn: Yellow],DLF Phase 2,0.7,Rapid
+DLF Phase 2,Belvedere Towers,0.7,Rapid
+Belvedere Towers,Cyber City,0.6,Rapid
+Cyber City,Moulsari Avenue,0.6,Rapid
+Moulsari Avenue,DLF Phase 3,0.8,Rapid
+Shaheed Sthal(First Station),Hindon River,1.0,Red
+Hindon River,Arthala,1.5,Red
+Arthala,Mohan Nagar,0.7,Red
+Mohan Nagar,Shyam park,1.3,Red
+Shyam park,Major Mohit Sharma,1.2,Red
+Major Mohit Sharma,Raj Bagh,1.2,Red
+Raj Bagh,Shaheed Nagar,1.3,Red
+Shaheed Nagar,Dilshad Garden,1.2,Red
+Dilshad Garden,Jhil Mil,0.9,Red
+Jhil Mil,Mansarovar Park,1.1,Red
+Mansarovar Park,Shahdara,1.1,Red
+Shahdara,Welcome [Conn: Pink],1.2,Red
+Welcome [Conn: Pink],Seelampur,1.1,Red
+Seelampur,Shastri Park,1.6,Red
+Shastri Park,"Kashmere Gate [Conn: Violet,Yellow]",2.1,Red
+"Kashmere Gate [Conn: Violet,Yellow]",Tis Hazari,1.2,Red
+Tis Hazari,Pul Bangash,0.9,Red
+Pul Bangash,Pratap Nagar,0.8,Red
+Pratap Nagar,Shastri Nagar,1.7,Red
+Shastri Nagar,Inderlok [Conn: Green],1.2,Red
+Inderlok [Conn: Green],Kanhaiya Nagar,1.2,Red
+Kanhaiya Nagar,Keshav Puram,0.7,Red
+Keshav Puram,Netaji Subash Place [Conn: Pink],1.2,Red
+Netaji Subash Place [Conn: Pink],Kohat Enclave,1.2,Red
+Kohat Enclave,Pitam Pura,1.0,Red
+Pitam Pura,Rohini East,0.8,Red
+Rohini East,Rohini West,1.3,Red
+Rohini West,Rithala(last station),1.0,Red
+Kashmere Gate [Conn: Yellow],Lal Quila,1.5,Unknown
+Lal Quila,Jama Masjid,0.8,Unknown
+Jama Masjid,Delhi Gate,1.4,Unknown
+Delhi Gate,ITO,1.3,Unknown
+ITO,Mandi House [Conn: Blue],0.8,Unknown
+Mandi House [Conn: Blue],Janpath,1.4,Unknown
+Janpath,Central Secretariat [Conn: Yellow],1.3,Unknown
+Central Secretariat [Conn: Yellow],Khan Market,2.1,Unknown
+Khan Market,Jawaharlal Nehru Stadium,1.4,Unknown
+Jawaharlal Nehru Stadium,Jangpura,0.9,Unknown
+Jangpura,Lajpat Nagar [Conn: Pink],1.5,Unknown
+Lajpat Nagar [Conn: Pink],Moolchand,0.7,Unknown
+Moolchand,Kailash Colony,1.3,Unknown
+Kailash Colony,Nehru Place,1.0,Unknown
+Nehru Place,Kalkaji Mandir [Conn: Magenta],0.8,Unknown
+Kalkaji Mandir [Conn: Magenta],Govind Puri,0.7,Unknown
+Govind Puri,Okhla,1.1,Unknown
+Okhla,Jasola,0.9,Unknown
+Jasola,Sarita Vihar,1.2,Unknown
+Sarita Vihar,Mohan Estate,1.2,Unknown
+Mohan Estate,Tughlakabad,1.9,Unknown
+Tughlakabad,Badarpur Border,1.1,Unknown
+Badarpur Border,Sarai,2.5,Unknown
+Sarai,N.H.P.C. Chowk,1.6,Unknown
+N.H.P.C. Chowk,Mewala Maharajpur,0.9,Unknown
+Mewala Maharajpur,Sector 28 Faridabad,1.2,Unknown
+Sector 28 Faridabad,Badkal Mor,1.7,Unknown
+Badkal Mor,Old Faridabad,1.2,Unknown
+Old Faridabad,Neelam Chowk Ajronda,1.6,Unknown
+Neelam Chowk Ajronda,Bata Chowk,1.3,Unknown
+Bata Chowk,Escorts Mujesar,1.8,Unknown
+Escorts Mujesar,Sant Surdas - Sihi,1.7,Unknown
+Sant Surdas - Sihi,Raja Nahar Singh,1.7,Unknown
+Samaypur Badli(First Station),Rohini Sector 18-19,0.8,Yellow
+Rohini Sector 18-19,Haiderpur Badli Mor,1.3,Yellow
+Haiderpur Badli Mor,Jahangirpuri,1.3,Yellow
+Jahangirpuri,Adarsh Nagar,1.3,Yellow
+Adarsh Nagar,Azadpur [Conn: Pink],1.5,Yellow
+Azadpur [Conn: Pink],Model Town,1.4,Yellow
+Model Town,Guru Tegh Bahadur Nagar,1.4,Yellow
+Guru Tegh Bahadur Nagar,Vishwavidyalaya,0.8,Yellow
+Vishwavidyalaya,Vidhan Sabha,1.0,Yellow
+Vidhan Sabha,Civil Lines,1.3,Yellow
+Civil Lines,Kashmere Gate [Conn: Violet],1.1,Yellow
+Kashmere Gate [Conn: Violet],Chandni Chowk,1.1,Yellow
+Chandni Chowk,Chawri Bazar,1.0,Yellow
+Chawri Bazar,New Delhi [Conn: Orange],0.8,Yellow
+New Delhi [Conn: Orange],Rajiv Chowk [Conn: Blue],1.1,Yellow
+Rajiv Chowk [Conn: Blue],Patel Chowk,1.3,Yellow
+Patel Chowk,Central Secretariat [Conn: Violet],0.9,Yellow
+Central Secretariat [Conn: Violet],Udyog Bhawan,0.3,Yellow
+Udyog Bhawan,Lok Kalyan Marg,1.6,Yellow
+Lok Kalyan Marg,Jor Bagh,1.2,Yellow
+Jor Bagh,Dilli Haat INA [Conn: Pink],1.3,Yellow
+Dilli Haat INA [Conn: Pink],AIIMS,0.8,Yellow
+AIIMS,Green Park,1.0,Yellow
+Green Park,Hauz Khas [Conn: Magenta],1.8,Yellow
+Hauz Khas [Conn: Magenta],Malviya Nagar,1.7,Yellow
+Malviya Nagar,Saket,0.9,Yellow
+Saket,Qutab Minar,1.7,Yellow
+Qutab Minar,Chhattarpur,1.3,Yellow
+Chhattarpur,Sultanpur,1.6,Yellow
+Sultanpur,Ghitorni,1.3,Yellow
+Ghitorni,Arjan Garh,2.7,Yellow
+Arjan Garh,Guru Dronacharya,2.3,Yellow
+Guru Dronacharya,Sikandarpur [Conn: Rapid],1.0,Yellow
+Sikandarpur [Conn: Rapid],MG Road,1.2,Yellow
+MG Road,IFFCO Chowk,1.1,Yellow
+IFFCO Chowk,Huda City Centre,1.5,Yellow
